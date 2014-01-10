@@ -3,6 +3,7 @@ Viikkomailipulautin
 Luo google kalenteriin ja rss-feediin perustuvan viikottaisen koonnoksen menneistä uutisista ja tulevista tapahtumista
 
 Ohjeet:
+
 1. Asenna Python 2.7.
 2. Asenna Googlen Python-API: [Linkki](http://code.google.com/p/gdata-python-client/downloads/list).
 3. Asenna dateutils: [linkki](http://labix.org/python-dateuti).
